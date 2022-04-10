@@ -19,3 +19,4 @@ I learned how to be make the components in Figma more interactive and creating a
 ## Links to check out 🔗
 - <a href="https://tinyurl.com/Shop-Local-Figma-Prototype">Figma Prototype</a>
 - <a href="https://devpost.com/software/shop-local">Devpost submission</a>
+- <a href="https://maureensanchez99.github.io/Shop-Local/">Github Pages Deployment</a>
