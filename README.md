@@ -9,7 +9,7 @@ Covid restrictions around the world are finally being eased back enough that peo
 Businesses are able to create a page for their shop and post updates if anything changes.  
 Customers only have the ability to search up businesses and view their pages.
 ## How it was built 🔧
-I first designed the site on Figma then worked on recreating it with HTML and CSS.
+I first designed the site on Figma then worked on recreating it with HTML and CSS in Visual Studio Code.
 ## Challenges ⛰️
 I had some difficulty managing my time as I was also dealing with midterm deadlines.
 ## What was learned 🧠
