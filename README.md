@@ -20,3 +20,4 @@ I hope to be able to create this site to be working well enough so I can use thi
 - <a href="https://tinyurl.com/Shop-Local-Figma-Prototype">Figma Prototype</a>
 - <a href="https://devpost.com/software/shop-local">Devpost submission</a>
 - <a href="https://maureensanchez99.github.io/Shop-Local/">Github Pages Deployment</a>
+- <a href="https://youtu.be/pCGb_votsfU">Video Demo</a>
