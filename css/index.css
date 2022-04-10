@@ -9,3 +9,28 @@ body {
 	    overflow: hidden;
       background-color: #F7F4EA;
 }
+
+/* Nav Bar */
+.nav-container{
+      background: #FFFFFF;
+      box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+      height: 75px;
+      width: auto;
+      margin: 0 auto;
+      padding-top: 10px;
+      z-index: 1;
+      position: relative;
+}
+
+nav{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 50px;
+  background-color: #FFFFFF;
+}
+
+.nav-items li{
+  list-style: none;
+  margin-right: 30px;
+}
