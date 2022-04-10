@@ -17,8 +17,6 @@ body {
       height: 75px;
       width: auto;
       margin: 0 auto;
-      padding-top: 10px;
-      z-index: 1;
       position: relative;
 }
 
@@ -30,7 +28,23 @@ nav{
   background-color: #FFFFFF;
 }
 
+.logo{
+      margin-left: 10px;
+      font-size: 40px;
+}
+
 .nav-items li{
   list-style: none;
   margin-right: 30px;
+}
+
+.nav-items li a{
+  color: #34252F;
+  text-decoration: none;
+  font-size: 30px;    
+}
+
+.switch-to-business{
+ padding-right: 10px;
+ font-size: 35px;
 }
