@@ -14,7 +14,7 @@ I first designed the site on Figma then worked on recreating it with HTML and CS
 I had some difficulty managing my time as I was also dealing with midterm deadlines and family obligations.
 ## What was learned 🧠
 I learned how to be make components in Figma more interactive and created a search bar that users can actually type into.
-## What's Next?
+## What's Next? ⏭️
 I hope to be able to create this site to be working well enough so I can use this to help out the businesses in my community. 
 ## Links to check out 🔗
 - <a href="https://tinyurl.com/Shop-Local-Figma-Prototype">Figma Prototype</a>
